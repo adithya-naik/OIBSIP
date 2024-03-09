@@ -1,7 +1,7 @@
 #COMMAND LINE APPLICATION TO GENERATE RANDOM PASSWORD
 
 #Author : Jatoth Adithya Naik
-#for    : Intenship (TASK-3)
+#for    : Intenship (PROJECT-3)
 
 # Discription :
 # this command appplication generates random password
