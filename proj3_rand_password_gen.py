@@ -6,7 +6,7 @@
 # Discription :
 # this command appplication generates random password
 # user has to give length of the password as input
-
+ 
 import random
 import string
 password = ""
