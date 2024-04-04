@@ -1,4 +1,4 @@
-#COMMAND LINE BASIC WHEATHER APP
+#COMMAND LINE BASIC WEATHER APP
 
 #Author : Jatoth Adithya Naik
 #for    : Intenship (PROJECT-4)
